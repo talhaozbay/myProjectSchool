@@ -12,17 +12,9 @@ public class Main {
     static BaseManager classRoomManager = new ClassRoomManager();
     static Scanner input = new Scanner(System.in);
 
-
     public static void main(String[] args) {
         Main.start();
-        //PClassroomManager pClassroomManager = new PClassroomManager();
-        //SchoolManager schoolManager = new SchoolManager();
-        //schoolManager.add();
-        //pClassroomManager.add();
-        //pClassroomManager.list();
     }
-
-
     public static void start() {
 
         System.out.println("******HOŞGELDİNİZ******");
